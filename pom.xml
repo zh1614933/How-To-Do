@@ -14,6 +14,7 @@
         <module>./howToDo-redis</module>
         <module>./howToDo-softWare</module>
         <module>./howToDo-OpenJdk</module>
+        <module>./howToDo-redisNew</module>
     </modules>
 
     <name>parent</name>
